@@ -16,3 +16,4 @@ xX_Bedwars_Xx
 Ollu
 JxDRed
 kimgamerTVTH001
+StrengthToggled
